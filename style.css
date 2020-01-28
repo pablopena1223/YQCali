@@ -1,0 +1,176 @@
+body{
+    height: 100%;
+    background-color: rgb(214, 214, 214);
+}
+
+#heading{
+    text-align:center;
+    font-family: 'Libre Baskerville', serif;
+    margin-bottom: 20px;
+}
+
+.contain{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 175px;
+    margin-right: 175px;
+    border: 0px;
+}
+
+.row{
+    color:#92AD71;
+    font-size: 22px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.portImgs{
+    width: 20%;
+}
+
+#CloseFrancisL,#ColdBrew{
+    width: 25%;
+}   
+
+
+#Sanchez{
+    width: 30%;
+}
+
+#MangoSide{
+    width: 60%;
+}
+
+#MangoFront, #Cup, #SeasonGreetC, #MultiDrinks2, #AlmondM, #FarHoney{
+    width: 98%;
+    margin-left: 10px;
+    margin-right: 2px;
+}
+
+#FrancisL{
+    width: 35%;
+}
+
+#FarFrancisL{
+    width: 29.63%;
+}
+
+#Beans{
+    width: 27.7%;
+}
+
+#Cups{
+    width: 60%;
+}
+
+#P{
+    width: 46.6%;
+}
+
+#A{
+    width: 33.4%;
+}
+
+#Christ{
+    width: 29%;
+}
+
+#SeasonGreet{
+    width: 60%;
+}
+
+#CloseChinese{
+    width: 35%;
+}
+
+#Chinese{
+    width: 29.6%;
+}
+
+#FarChinese{
+    width: 28%;
+}
+
+#Honey{
+    width: 60%;
+}
+
+#CloseHoney{
+    width: 60%;
+}
+
+#IcedCoffee{
+    width: 46.4%;
+}
+
+#MultiDrinks{
+    width: 33.7%;
+}
+
+#IcedTea{
+    width: 29.3%;
+}
+
+#Cappuccino{
+    width: 46.82%;
+}
+
+#RegCoffee{
+    width: 33.6%;
+}
+
+#Americano{
+    width: 29.35%;
+}
+
+#Day{
+    width: 101%;
+}
+
+#Erica{
+    width: 31.9%;
+}
+
+#TY{
+    width: 28%;
+}
+
+#Welcome{
+    width: 28%;
+}
+
+.rightPane{
+    width: 30%;
+}
+
+
+#Yanelly{
+    width: 50%;
+}
+
+#infoHead{
+    width: 30%;
+    text-align: center;
+}
+
+.bio,.info{
+    font-family: 'Fira Sans medium 500', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#info{
+    font-size: 19px;
+}
+
+#IG{
+    width: 16%;
+    text-align: center;
+}
+
+#instagramLogo{
+    width: 15%;
+}
+
+#gmailLogo{
+    width: 15%;
+}
